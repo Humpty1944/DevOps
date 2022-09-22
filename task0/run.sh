@@ -1,3 +1,5 @@
 #!/bin/bash
-NAME=$1
-echo "Hello, $NAME!"
+
+# My first script
+
+echo "Hello World!"
